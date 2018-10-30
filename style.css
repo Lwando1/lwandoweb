@@ -1,0 +1,113 @@
+body {
+	background-image: url(" images/hills.jpg");
+	background-size: width="1000" height="800";
+	font-size: 50px;
+	font-family: Ubuntu;
+	
+}
+
+.title{
+color: white; 
+font-family: Ubuntu;
+font-size : 40px;
+}
+
+.white-text{
+	color: white;
+	font-family: Ubuntu;
+}
+
+#lwandz {
+	font-size:25px;
+	color: white;
+	Font-family: monochrome;
+}
+#about {
+	font-size: 45px;
+	color: white;
+    Font-family: ubuntu;
+}
+#mishin{
+	color: white;
+	font-size: 45px;
+	font-family: monochrome;
+}
+#life{
+	font-size: 25px;
+	color: white;
+	font-family: monochrome;
+}
+#phone{
+	font-size: 25px;
+	font-family: monochrome;
+	color: white;
+}
+#mail{
+	font-size: 25px;
+	font-family: monochrome;
+	color:white;
+}
+#background{
+	font-size: 45px;
+	font-family:monochrome;
+	color:white;
+}
+#details{
+	font-size: 25px;
+	font-family: monochrome;
+	color:white;
+}
+#back{
+	font-size:25px;
+	font-family: monochrome;
+	color: white;
+}
+#inter{
+	font-size:45px;
+	font-family: monochrome;
+	color: white;
+}	
+#love{
+	font-size: 25px;
+	font-family: monochrome;
+	color: white;
+}
+#sound{
+	font-size: 45px;
+	font-family: monochrome;
+	color: white;
+}
+#wise{
+	font-size: 25px;
+	font-family: monochrome;
+	color: white;
+}
+#photo{
+	font-size: 45px;
+	font-family: monochrome;
+	color: white;
+}
+#Bmw{
+	font-size: 25px;
+	font-family: monochrome;
+	color: white;
+}
+#denim{
+	font-size:45px;
+	font-family: monochrome;
+	color: white;
+}
+#Graphic{
+	font-size:45px;
+	font-family:Monochrome;
+	color:white;
+}
+#house{
+	font-size:45px;
+	font-family: monochrome;
+	color:white;
+}
+#joy{
+	font-size:25px;
+	font-family: monochrome;
+	color:white;
